@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Mermaid for GitHub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mermeid.js Chrome extention for GitHub and Gist",
   "homepage_url": "https://github.com/set0gut1/mermaid-for-github",
   "icons": {
